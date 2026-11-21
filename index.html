@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#20242b">
+  <title>MDDKKC THCSN1 Final boss</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">MDDKKC THCSN1 Final boss</p>
+        <h1>MDDKKC THCSN1 Final boss</h1>
+      </div>
+      <div class="score-panel" aria-live="polite">
+        <span id="question-count">Câu: 0</span>
+        <strong id="score-count">Đúng: 0</strong>
+      </div>
+    </header>
+
+    <section class="quiz-panel" aria-labelledby="prompt">
+      <div class="image-frame">
+        <img id="question-image" alt="ảnh" hidden>
+        <p id="image-placeholder">Đang tải…</p>
+      </div>
+
+      <p id="prompt" class="prompt">Đây là:?</p>
+
+      <form id="answer-form" autocomplete="off">
+        <label for="answer-input">Tên</label>
+        <div class="answer-row">
+          <input id="answer-input" name="answer" type="text"
+                 placeholder="Nhập tên đầy đủ"
+                 spellcheck="false" autocapitalize="off" required>
+          <button id="submit-button" type="submit">Nộp</button>
+        </div>
+      </form>
+
+      <p id="feedback" class="feedback" role="status" aria-live="polite"></p>
+
+      <div class="actions">
+        <button id="next-button" class="secondary" type="button" disabled>
+          Tiếp
+        </button>
+      </div>
+    </section>
+
+    <footer>
+      <span id="status">Đang load</span>
+      <span>Nhớ ghi chính xác có dấu và in hoa thường</span>
+    </footer>
+  </main>
+</body>
+</html>

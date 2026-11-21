@@ -1,0 +1,495 @@
+{
+  "giun": {
+    "ancylostoma_duodenale_dau": [
+      "img/giun/ancylostoma_duodenale_dau/Aduodenale_head_A.jpg",
+      "img/giun/ancylostoma_duodenale_dau/Screenshot 2026-11-18 165759.png"
+    ],
+    "ascaris_lumbricoides_au_trung_phoi": [
+      "img/giun/ascaris_lumbricoides_au_trung_phoi/121185_rel.jpg",
+      "img/giun/ascaris_lumbricoides_au_trung_phoi/asc-dr2.jpg",
+      "img/giun/ascaris_lumbricoides_au_trung_phoi/Screenshot 2026-11-18 170146.png"
+    ],
+    "ascaris_lumbricoides_cai": [
+      "img/giun/ascaris_lumbricoides_cai/images..jpg",
+      "img/giun/ascaris_lumbricoides_cai/images.jpg",
+      "img/giun/ascaris_lumbricoides_cai/Screenshot 2026-11-18 170701.png"
+    ],
+    "ascaris_lumbricoides_duc": [
+      "img/giun/ascaris_lumbricoides_duc/Screenshot 2026-11-18 171209.png",
+      "img/giun/ascaris_lumbricoides_duc/Screenshot 2026-11-18 171234.png",
+      "img/giun/ascaris_lumbricoides_duc/Screenshot 2026-11-18 171328.png"
+    ],
+    "ascaris_lumbricoides_trung_chac": [
+      "img/giun/ascaris_lumbricoides_trung_chac/images.jpg",
+      "img/giun/ascaris_lumbricoides_trung_chac/Microscopic-images-of-Alumbricoides-eggs-fertilized-A-and-non-fertilized-B.webp",
+      "img/giun/ascaris_lumbricoides_trung_chac/Screenshot 2026-11-18 171613.png",
+      "img/giun/ascaris_lumbricoides_trung_chac/Screenshot 2026-11-18 171636.png"
+    ],
+    "ascaris_lumbricoides_trung_lep": [
+      "img/giun/ascaris_lumbricoides_trung_lep/Ascaris_eggB.jpg",
+      "img/giun/ascaris_lumbricoides_trung_lep/images.jpg",
+      "img/giun/ascaris_lumbricoides_trung_lep/Microscopic-images-of-Alumbricoides-eggs-fertilized-A-and-non-fertilized-B.webp",
+      "img/giun/ascaris_lumbricoides_trung_lep/Screenshot 2026-11-18 191028.png"
+    ],
+    "enterobius_vermicularis_cai": [
+      "img/giun/enterobius_vermicularis_cai/enterobius-vermicularis-light-microscope-260nw-1187073817.webp",
+      "img/giun/enterobius_vermicularis_cai/images.jpg",
+      "img/giun/enterobius_vermicularis_cai/Screenshot 2026-11-18 191308.png"
+    ],
+    "enterobius_vermicularis_cat_ngang": [
+      "img/giun/enterobius_vermicularis_cat_ngang/978-1-4419-0861-2_32_Fig5_HTML.jpg",
+      "img/giun/enterobius_vermicularis_cat_ngang/Enterobius_vermicularis_2.jpg",
+      "img/giun/enterobius_vermicularis_cat_ngang/image.webp",
+      "img/giun/enterobius_vermicularis_cat_ngang/Pinworms_in_the_Appendix_(2).jpg",
+      "img/giun/enterobius_vermicularis_cat_ngang/Pinworms_in_the_Appendix_(3).jpg"
+    ],
+    "enterobius_vermicularis_duc": [
+      "img/giun/enterobius_vermicularis_duc/Evermicularis_adult2_Norway.jpg",
+      "img/giun/enterobius_vermicularis_duc/images.jpg",
+      "img/giun/enterobius_vermicularis_duc/Screenshot 2026-11-18 192051.png",
+      "img/giun/enterobius_vermicularis_duc/Screenshot 2026-11-18 192105.png"
+    ],
+    "enterobius_vermicularis_trung": [
+      "img/giun/enterobius_vermicularis_trung/Evermicularis_egg_HBa.jpg",
+      "img/giun/enterobius_vermicularis_trung/images (1).jpg",
+      "img/giun/enterobius_vermicularis_trung/images.jpg",
+      "img/giun/enterobius_vermicularis_trung/Screenshot 2026-11-18 192250.png"
+    ],
+    "giun_moc_au_trung_1": [
+      "img/giun/giun_moc_au_trung_1/Hookworm_rhabditiform.jpg",
+      "img/giun/giun_moc_au_trung_1/Hookworm_rhabditiform_2.jpg",
+      "img/giun/giun_moc_au_trung_1/images.jpg"
+    ],
+    "giun_moc_au_trung_2": [
+      "img/giun/giun_moc_au_trung_2/Hookworm_filariform_A.jpg",
+      "img/giun/giun_moc_au_trung_2/Hookworm_filariform_B.jpg",
+      "img/giun/giun_moc_au_trung_2/Hookworm_filariform_C.jpg"
+    ],
+    "giun_moc_duoi_cai": [
+      "img/giun/giun_moc_duoi_cai/A-Tail-part-of-female-N-americanus-B-caudal-bursa-of-male-N-americanus-with-400.png",
+      "img/giun/giun_moc_duoi_cai/aduodmf.jpg",
+      "img/giun/giun_moc_duoi_cai/Screenshot 2026-11-18 193436.png"
+    ],
+    "giun_moc_duoi_duc": [
+      "img/giun/giun_moc_duoi_duc/aduodmf.jpg",
+      "img/giun/giun_moc_duoi_duc/images (1).jpg",
+      "img/giun/giun_moc_duoi_duc/images.jpg",
+      "img/giun/giun_moc_duoi_duc/Screenshot 2026-11-18 193955.png"
+    ],
+    "giun_moc_trung": [
+      "img/giun/giun_moc_trung/Hookworm_2x2_B.jpg",
+      "img/giun/giun_moc_trung/Hookworm_2x2_C.jpg",
+      "img/giun/giun_moc_trung/Hookworm_egg_BAM1.jpg",
+      "img/giun/giun_moc_trung/Hookworm_egg_BAM_MCS.jpg",
+      "img/giun/giun_moc_trung/Hookworm_egg_wtmt.jpg"
+    ],
+    "gnathostoma_sp_au_trung_3": [
+      "img/giun/gnathostoma_sp_au_trung_3/13071_2026_7378_Fig3_HTML.jpg",
+      "img/giun/gnathostoma_sp_au_trung_3/Gnathostoma-spinigerum.webp",
+      "img/giun/gnathostoma_sp_au_trung_3/images (1).jpg",
+      "img/giun/gnathostoma_sp_au_trung_3/images.jpg",
+      "img/giun/gnathostoma_sp_au_trung_3/images2.jpg"
+    ],
+    "necator_americanus_dau": [
+      "img/giun/necator_americanus_dau/Namericanus_head_B.jpg",
+      "img/giun/necator_americanus_dau/necator-americanus-head-semilunar-cutting-260nw-2263791903.webp",
+      "img/giun/necator_americanus_dau/PHIL_1428_lores.jpg",
+      "img/giun/necator_americanus_dau/Screenshot 2026-11-18 221048.png"
+    ],
+    "strongyloides_stercolaris_au_trung_1": [
+      "img/giun/strongyloides_stercolaris_au_trung_1/images (1).jpg",
+      "img/giun/strongyloides_stercolaris_au_trung_1/images.jpg",
+      "img/giun/strongyloides_stercolaris_au_trung_1/strongyloides-larvae-2021.jpg",
+      "img/giun/strongyloides_stercolaris_au_trung_1/Strongyloides_stercoralis_larva.jpg"
+    ],
+    "strongyloides_stercolaris_au_trung_2": [
+      "img/giun/strongyloides_stercolaris_au_trung_2/S_stercoralis_filariform_HB2.jpg"
+    ],
+    "trichinella_spiralis_au_trung_co": [
+      "img/giun/trichinella_spiralis_au_trung_co/2638.jpg",
+      "img/giun/trichinella_spiralis_au_trung_co/images.jpg",
+      "img/giun/trichinella_spiralis_au_trung_co/images2.jpg",
+      "img/giun/trichinella_spiralis_au_trung_co/Trichinella_rat_BAM1.jpg"
+    ],
+    "trichuris_trichiura_trung": [
+      "img/giun/trichuris_trichiura_trung/images.jpg",
+      "img/giun/trichuris_trichiura_trung/T.trichiura.jpg",
+      "img/giun/trichuris_trichiura_trung/trichuris-trichiura-egg-stool-analyze-microscope-70356333.webp",
+      "img/giun/trichuris_trichiura_trung/trichuris-trichiura-eggs-stool-analyze-microscope-96910387.webp",
+      "img/giun/trichuris_trichiura_trung/Trichuris_trichiura_egg1.jpg",
+      "img/giun/trichuris_trichiura_trung/Trichuris_trichiura_egg3.jpg"
+    ],
+    "trichuris_truchiura_cai": [
+      "img/giun/trichuris_truchiura_cai/images.jpg",
+      "img/giun/trichuris_truchiura_cai/Screenshot 2026-11-18 224923.png",
+      "img/giun/trichuris_truchiura_cai/t_trichiura_adult_female.jpg",
+      "img/giun/trichuris_truchiura_cai/trichuris-trichiura-light-microscope-260nw-1187082214.webp"
+    ],
+    "trichuris_truchiura_cat_ngang": [
+      "img/giun/trichuris_truchiura_cat_ngang/3-s2.0-B9780123813664000043-f04-38-9780123813664.jpg",
+      "img/giun/trichuris_truchiura_cat_ngang/3-s2.0-B9780128130889000203-f03-36-9780128130889.jpg",
+      "img/giun/trichuris_truchiura_cat_ngang/images.jpg"
+    ],
+    "trichuris_truchiura_duc": [
+      "img/giun/trichuris_truchiura_duc/002852_f285-002ab-9781437707557-300x151.jpg",
+      "img/giun/trichuris_truchiura_duc/image002_0017.jpg",
+      "img/giun/trichuris_truchiura_duc/images (1).jpg",
+      "img/giun/trichuris_truchiura_duc/images.jpg",
+      "img/giun/trichuris_truchiura_duc/Screenshot 2026-11-18 230209.png"
+    ]
+  },
+  "san": {
+    "clonorchis_sinensis_trung": [
+      "img/san/clonorchis_sinensis_trung/20192_0_En_644-2_Fig4_HTML.jpg",
+      "img/san/clonorchis_sinensis_trung/Clonorchis_egg.jpg",
+      "img/san/clonorchis_sinensis_trung/Clonorchis_egg2.jpg",
+      "img/san/clonorchis_sinensis_trung/egg-liver-fluke-Clonorchis-sinensis.webp"
+    ],
+    "clonorchis_sinensis_truong_thanh": [
+      "img/san/clonorchis_sinensis_truong_thanh/3-s2.0-B9780323953528000023-f09-02-9780323953528.jpg",
+      "img/san/clonorchis_sinensis_truong_thanh/aboutpageimageclonorchis.jpg",
+      "img/san/clonorchis_sinensis_truong_thanh/C.sinensis_adult-300x240.jpg",
+      "img/san/clonorchis_sinensis_truong_thanh/Screenshot 2026-11-19 214904.png"
+    ],
+    "cysticercus_cellulosae": [
+      "img/san/cysticercus_cellulosae/20192_0_En_4237-1_Fig1_HTML.jpg",
+      "img/san/cysticercus_cellulosae/3276929410_3bea88e072_b.jpg",
+      "img/san/cysticercus_cellulosae/cysticercus-cellulosae-light-microscope-260nw-1224225250.webp",
+      "img/san/cysticercus_cellulosae/Screenshot 2026-11-19 215040.png"
+    ],
+    "diphyllobothrium_latum_dau": [
+      "img/san/diphyllobothrium_latum_dau/D.latum_scolex-300x151.jpg",
+      "img/san/diphyllobothrium_latum_dau/Diph_scolex.jpg",
+      "img/san/diphyllobothrium_latum_dau/images.jpg",
+      "img/san/diphyllobothrium_latum_dau/Screenshot 2026-11-19 215608.png"
+    ],
+    "diphyllobothrium_latum_dot": [
+      "img/san/diphyllobothrium_latum_dot/498139595.jpg",
+      "img/san/diphyllobothrium_latum_dot/ac351f96-38c5-4868-9b43-dcefe761cbd3_700x463.jpg",
+      "img/san/diphyllobothrium_latum_dot/images (1).jpg",
+      "img/san/diphyllobothrium_latum_dot/images.jpg",
+      "img/san/diphyllobothrium_latum_dot/MSPY0345_tn.jpg"
+    ],
+    "diphyllobothrium_latum_trung": [
+      "img/san/diphyllobothrium_latum_trung/diagnosis_0.jpg",
+      "img/san/diphyllobothrium_latum_trung/Diph_egg_2.jpg",
+      "img/san/diphyllobothrium_latum_trung/Diph_egg_4.jpg",
+      "img/san/diphyllobothrium_latum_trung/Dlatum_egg_wtmt3.jpg"
+    ],
+    "fasciola_gigantica_truong_thanh": [
+      "img/san/fasciola_gigantica_truong_thanh/311462_2_En_6_Fig1_HTML.png",
+      "img/san/fasciola_gigantica_truong_thanh/FIGfasciola12.jpg",
+      "img/san/fasciola_gigantica_truong_thanh/image-1764397166-1.jpg",
+      "img/san/fasciola_gigantica_truong_thanh/Screenshot 2026-11-19 220138.png"
+    ],
+    "fasciola_hepatica_truong_thanh": [
+      "img/san/fasciola_hepatica_truong_thanh/3-s2.0-B9780128187319000586-f00058-01-9780128187319.jpg",
+      "img/san/fasciola_hepatica_truong_thanh/3-s2.0-B9780128225219000629-f00062-01-9780128225219.jpg",
+      "img/san/fasciola_hepatica_truong_thanh/FIGfasciola09.jpg",
+      "img/san/fasciola_hepatica_truong_thanh/Screenshot 2026-11-19 220513.png"
+    ],
+    "fasciolopsis_buski_truong_thanh": [
+      "img/san/fasciolopsis_buski_truong_thanh/c0282658-800px-wm.jpg",
+      "img/san/fasciolopsis_buski_truong_thanh/fa-1.png",
+      "img/san/fasciolopsis_buski_truong_thanh/fa-2.png",
+      "img/san/fasciolopsis_buski_truong_thanh/images (1).jpg",
+      "img/san/fasciolopsis_buski_truong_thanh/images.jpg"
+    ],
+    "paragonimus_sp_trung": [
+      "img/san/paragonimus_sp_trung/istockphoto-590073390-612x612.jpg",
+      "img/san/paragonimus_sp_trung/P.westermani_egg-300x199.jpg",
+      "img/san/paragonimus_sp_trung/P_westermani_egg_wtmt_BAM3.jpg",
+      "img/san/paragonimus_sp_trung/Screenshot 2026-11-19 221134.png"
+    ],
+    "paragonimus_sp_truong_thanh": [
+      "img/san/paragonimus_sp_truong_thanh/images.jpg",
+      "img/san/paragonimus_sp_truong_thanh/P.westermani_adult-300x257.jpg",
+      "img/san/paragonimus_sp_truong_thanh/Paragonimus_adult_hematoxylin.jpg",
+      "img/san/paragonimus_sp_truong_thanh/Screenshot 2026-11-19 220901.png"
+    ],
+    "schistosoma_haematobium_trung": [
+      "img/san/schistosoma_haematobium_trung/images (1).jpg",
+      "img/san/schistosoma_haematobium_trung/images (2).jpg",
+      "img/san/schistosoma_haematobium_trung/images.jpg",
+      "img/san/schistosoma_haematobium_trung/S_haematobium_egg_2X2a.jpg",
+      "img/san/schistosoma_haematobium_trung/Schistosoma_haematobium_egg_4843_lores.jpg"
+    ],
+    "schistosoma_mansoni_trung": [
+      "img/san/schistosoma_mansoni_trung/images.jpg",
+      "img/san/schistosoma_mansoni_trung/S_mansoni_egg_MO1.jpg",
+      "img/san/schistosoma_mansoni_trung/S_mansoni_eggF.jpg",
+      "img/san/schistosoma_mansoni_trung/Schistosoma_mansoni_egg_4841_lores.jpg"
+    ],
+    "schistosoma_sp_truong_thanh": [
+      "img/san/schistosoma_sp_truong_thanh/Microscopy_Schistosoma_mansoni_adult.jpg",
+      "img/san/schistosoma_sp_truong_thanh/S_mansoni_adult_Lammie1.jpg",
+      "img/san/schistosoma_sp_truong_thanh/schistosoma-mekongi-adult-stage-light-260nw-1410398396.webp",
+      "img/san/schistosoma_sp_truong_thanh/Screenshot 2026-11-19 221632.png"
+    ],
+    "taenia_saginata_dau": [
+      "img/san/taenia_saginata_dau/cestodes-tapeworm-taenia-saginata-scolex-260nw-2279105149.webp",
+      "img/san/taenia_saginata_dau/Screenshot 2026-11-19 221857.png",
+      "img/san/taenia_saginata_dau/Taenia_saginata.jpg",
+      "img/san/taenia_saginata_dau/Taenia_saginata_scolex.jpg"
+    ],
+    "taenia_saginata_dot_gia": [
+      "img/san/taenia_saginata_dot_gia/images.jpg",
+      "img/san/taenia_saginata_dot_gia/Screenshot 2026-11-19 222157.png",
+      "img/san/taenia_saginata_dot_gia/T_saginata_OrangeCo.jpg",
+      "img/san/taenia_saginata_dot_gia/Taenia_saginataD.JPG"
+    ],
+    "taenia_solium_dau": [
+      "img/san/taenia_solium_dau/cysticercus-cellulosae-taenia-solium-which-260nw-2598434811.webp",
+      "img/san/taenia_solium_dau/images.jpg",
+      "img/san/taenia_solium_dau/Screenshot 2026-11-19 222441.png",
+      "img/san/taenia_solium_dau/Taenia_solium_scolex1.jpg"
+    ],
+    "taenia_solium_dot_gia": [
+      "img/san/taenia_solium_dot_gia/Screenshot 2026-11-19 222722.png",
+      "img/san/taenia_solium_dot_gia/Taenia_solium-detailed_morphology.jpg",
+      "img/san/taenia_solium_dot_gia/Taenia_solium_carmine.jpg"
+    ],
+    "taenia_sp_trung": [
+      "img/san/taenia_sp_trung/images (1).jpg",
+      "img/san/taenia_sp_trung/images.jpg",
+      "img/san/taenia_sp_trung/T.saginata-egg.jpg",
+      "img/san/taenia_sp_trung/Taenia_eggA.jpg"
+    ],
+    "trung_san_la_lon": [
+      "img/san/trung_san_la_lon/fasciolaegg.jpg",
+      "img/san/trung_san_la_lon/gr4.jpg",
+      "img/san/trung_san_la_lon/sddefault.jpg",
+      "img/san/trung_san_la_lon/The-image-of-an-egg-from-Fasciola-hepatica-found-in-fecal-material-of-one-participant-is.webp"
+    ]
+  },
+  "don_bao": {
+    "balantidium_coli_bao_nang": [
+      "img/don_bao/balantidium_coli_bao_nang/1423546-balantidium-coli-lm-under-a-microscope.jpg",
+      "img/don_bao/balantidium_coli_bao_nang/B-col-ct-dl.jpg",
+      "img/don_bao/balantidium_coli_bao_nang/Screenshot 2026-11-17 224327.png",
+      "img/don_bao/balantidium_coli_bao_nang/Screenshot 2026-11-17 224757.png"
+    ],
+    "balantidium_coli_hoat_dong": [
+      "img/don_bao/balantidium_coli_hoat_dong/Balantidium coli.jpg",
+      "img/don_bao/balantidium_coli_hoat_dong/Bcoli_troph_hematoxylin.jpg",
+      "img/don_bao/balantidium_coli_hoat_dong/Direct-examination-of-B-coli-trophozoite-The-Trophozoite-with-large-nucleus-by-normal.png",
+      "img/don_bao/balantidium_coli_hoat_dong/Screenshot 2026-11-17 230732.png"
+    ],
+    "cryptosporidium_sp_trung_nang": [
+      "img/don_bao/cryptosporidium_sp_trung_nang/Crypto_acidfast_web.jpg",
+      "img/don_bao/cryptosporidium_sp_trung_nang/Oocyst-of-Cryptosporidium-Spp-Stained-by-the-Modified-ZiehlNeelsen-Staining-Technique.webp",
+      "img/don_bao/cryptosporidium_sp_trung_nang/Screenshot 2026-11-17 231204.png"
+    ],
+    "entamoeba_coli_bao_nang": [
+      "img/don_bao/entamoeba_coli_bao_nang/E-col-ct-dl.jpg",
+      "img/don_bao/entamoeba_coli_bao_nang/Entamoeba-coli-cyst-stage-stained-with-iodine.webp",
+      "img/don_bao/entamoeba_coli_bao_nang/image1.webp",
+      "img/don_bao/entamoeba_coli_bao_nang/MSPR1162_tn.jpg"
+    ],
+    "entamoeba_coli_hoat_dong": [
+      "img/don_bao/entamoeba_coli_hoat_dong/E_coli_troph_B.jpg",
+      "img/don_bao/entamoeba_coli_hoat_dong/E_coli_troph_BAM1.jpg",
+      "img/don_bao/entamoeba_coli_hoat_dong/FIGecoli07.jpg",
+      "img/don_bao/entamoeba_coli_hoat_dong/images.jpg"
+    ],
+    "entamoeba_histolytica_bao_nang": [
+      "img/don_bao/entamoeba_histolytica_bao_nang/Screenshot 2026-11-17 232146.png",
+      "img/don_bao/entamoeba_histolytica_bao_nang/Screenshot 2026-11-17 232221.png",
+      "img/don_bao/entamoeba_histolytica_bao_nang/Screenshot 2026-11-17 232323.png",
+      "img/don_bao/entamoeba_histolytica_bao_nang/Screenshot 2026-11-17 232333.png"
+    ],
+    "entamoeba_histolytica_hoat_dong": [
+      "img/don_bao/entamoeba_histolytica_hoat_dong/entamoeba-trophozoite.jpg",
+      "img/don_bao/entamoeba_histolytica_hoat_dong/Entamoeba_histolytica.jpg",
+      "img/don_bao/entamoeba_histolytica_hoat_dong/Screenshot 2026-11-17 232428.png",
+      "img/don_bao/entamoeba_histolytica_hoat_dong/Screenshot 2026-11-17 232459.png"
+    ],
+    "giardia_lamblia_bao_nang": [
+      "img/don_bao/giardia_lamblia_bao_nang/Giardia_cyst_tric3.jpg",
+      "img/don_bao/giardia_lamblia_bao_nang/images.jpg",
+      "img/don_bao/giardia_lamblia_bao_nang/Screenshot 2026-11-18 161636.png"
+    ],
+    "giardia_lamblia_hoat_dong": [
+      "img/don_bao/giardia_lamblia_hoat_dong/Giardia_intestinalis_-_trophozoite.jpg",
+      "img/don_bao/giardia_lamblia_hoat_dong/images (1).jpg",
+      "img/don_bao/giardia_lamblia_hoat_dong/images.jpg",
+      "img/don_bao/giardia_lamblia_hoat_dong/One-of-the-best-public-domain-light-micrographs-of-Giardia-published-by-the-National.webp",
+      "img/don_bao/giardia_lamblia_hoat_dong/Screenshot 2026-11-18 162208.png"
+    ],
+    "plasmodium_falciparum_giao_bao": [
+      "img/don_bao/plasmodium_falciparum_giao_bao/63706.jpg",
+      "img/don_bao/plasmodium_falciparum_giao_bao/falciparum-crescent-shaped-gametocytes-blood-smear.webp",
+      "img/don_bao/plasmodium_falciparum_giao_bao/P.falciparum_gametocyte_stage-300x172.jpg",
+      "img/don_bao/plasmodium_falciparum_giao_bao/Plasmodium_falciparum_01.png"
+    ],
+    "plasmodium_falciparum_tu_duong": [
+      "img/don_bao/plasmodium_falciparum_tu_duong/65118.jpg",
+      "img/don_bao/plasmodium_falciparum_tu_duong/images.jpg",
+      "img/don_bao/plasmodium_falciparum_tu_duong/Screenshot 2026-11-18 162728.png",
+      "img/don_bao/plasmodium_falciparum_tu_duong/shutterstock_1944751330.jpg"
+    ],
+    "plasmodium_malariae_phan_liet": [
+      "img/don_bao/plasmodium_malariae_phan_liet/images.jpg",
+      "img/don_bao/plasmodium_malariae_phan_liet/p042.jpg",
+      "img/don_bao/plasmodium_malariae_phan_liet/P_malariae_schizont5.jpg",
+      "img/don_bao/plasmodium_malariae_phan_liet/Schizont-with-merozoites-arranged-in-rosette-form-of-P-malariae-misdiagnosed-as-P.webp"
+    ],
+    "plasmodium_malariae_tu_duong": [
+      "img/don_bao/plasmodium_malariae_tu_duong/pm_100_c.jpg",
+      "img/don_bao/plasmodium_malariae_tu_duong/Screenshot 2026-11-18 163845.png",
+      "img/don_bao/plasmodium_malariae_tu_duong/Screenshot 2026-11-18 163856.png",
+      "img/don_bao/plasmodium_malariae_tu_duong/Screenshot 2026-11-18 165345.png",
+      "img/don_bao/plasmodium_malariae_tu_duong/Screenshot 2026-11-18 165357.png"
+    ],
+    "plasmodium_vivax_giao_bao": [
+      "img/don_bao/plasmodium_vivax_giao_bao/64014.jpg",
+      "img/don_bao/plasmodium_vivax_giao_bao/p037.jpg",
+      "img/don_bao/plasmodium_vivax_giao_bao/P_vivax_gametocyte4.jpg",
+      "img/don_bao/plasmodium_vivax_giao_bao/Plasmodium_vivax_macrogametocyte_5942_lores.jpg"
+    ],
+    "plasmodium_vivax_phan_liet": [
+      "img/don_bao/plasmodium_vivax_phan_liet/63432.jpg",
+      "img/don_bao/plasmodium_vivax_phan_liet/66268.jpg",
+      "img/don_bao/plasmodium_vivax_phan_liet/images.jpg",
+      "img/don_bao/plasmodium_vivax_phan_liet/P_vivax_schizont1.jpg",
+      "img/don_bao/plasmodium_vivax_phan_liet/Thin-smear-Plasmodium-vivax-schizont-under-oil-immersion-1000_Q320.webp"
+    ],
+    "plasmodium_vivax_tu_duong": [
+      "img/don_bao/plasmodium_vivax_tu_duong/64015.jpg",
+      "img/don_bao/plasmodium_vivax_tu_duong/p033.jpg",
+      "img/don_bao/plasmodium_vivax_tu_duong/pv_100_b.tif.jpg",
+      "img/don_bao/plasmodium_vivax_tu_duong/Screenshot 2026-11-18 165304.png"
+    ],
+    "trichomonas_vaginalis_hoat_dong": [
+      "img/don_bao/trichomonas_vaginalis_hoat_dong/images.jpg",
+      "img/don_bao/trichomonas_vaginalis_hoat_dong/transfer-Trichomonas-vaginalis-gene-bacteria-species-enzyme.webp",
+      "img/don_bao/trichomonas_vaginalis_hoat_dong/Trichomonas_Giemsa_DPDx.jpg",
+      "img/don_bao/trichomonas_vaginalis_hoat_dong/Trichomonas_May-Grünwald_staining.jpg"
+    ],
+    "toxoplasma_gondii_hoat_dong": [
+      "img/don_bao/toxoplasma_gondii_hoat_dong/469_lores.jpg",
+      "img/don_bao/toxoplasma_gondii_hoat_dong/images.jpg",
+      "img/don_bao/toxoplasma_gondii_hoat_dong/Screenshot 2026-11-18 165453.png",
+      "img/don_bao/toxoplasma_gondii_hoat_dong/T_gondii_tachy.jpg"
+    ]
+  },
+  "vi_nam": {
+    "aspergillus_sp": [
+      "img/vi_nam/aspergillus_sp/asp-fish-micro.jpg",
+      "img/vi_nam/aspergillus_sp/aspergillus-microscope.jpeg",
+      "img/vi_nam/aspergillus_sp/c0137014-800px-wm.jpg",
+      "img/vi_nam/aspergillus_sp/images.jpg",
+      "img/vi_nam/aspergillus_sp/Screenshot 2026-11-21 144611.png",
+      "img/vi_nam/aspergillus_sp/Screenshot 2026-11-21 144811.png"
+    ],
+    "candia_albicans_sinh_ong_mam": [
+      "img/vi_nam/candia_albicans_sinh_ong_mam/C_albicans_germ_tubes.jpg",
+      "img/vi_nam/candia_albicans_sinh_ong_mam/Germ-tube-test-GTT-of-Candida-albicans-Positive-1024x768.jpg",
+      "img/vi_nam/candia_albicans_sinh_ong_mam/images.jpg",
+      "img/vi_nam/candia_albicans_sinh_ong_mam/Screenshot 2026-11-21 145348.png"
+    ],
+    "candida_albicans_bao_tu_bao_day": [
+      "img/vi_nam/candida_albicans_bao_tu_bao_day/24999_lores.jpg",
+      "img/vi_nam/candida_albicans_bao_tu_bao_day/3-Figure1-1.png",
+      "img/vi_nam/candida_albicans_bao_tu_bao_day/candida-chlamydospores.jpg",
+      "img/vi_nam/candida_albicans_bao_tu_bao_day/Screenshot 2026-11-21 145902.png"
+    ],
+    "candida_sp_soi_to_nam_gia": [
+      "img/vi_nam/candida_sp_soi_to_nam_gia/images.jpg",
+      "img/vi_nam/candida_sp_soi_to_nam_gia/pseudohyphae.webp",
+      "img/vi_nam/candida_sp_soi_to_nam_gia/Screenshot 2026-11-21 150134.png"
+    ],
+    "cryptococcus_neoformans": [
+      "img/vi_nam/cryptococcus_neoformans/img1.jpg",
+      "img/vi_nam/cryptococcus_neoformans/Cryptococcus_neoformans_using_a_light_India_ink_staining_preparation_PHIL_3771_lores.jpg",
+      "img/vi_nam/cryptococcus_neoformans/ndia-ink-staining-of-a-Vietnamese-clinical-isolates-of-Cryptococcus-neoformans-var.webp",
+      "img/vi_nam/cryptococcus_neoformans/Photomicrograph-of-Cryptococcus-neoformans-strain-B3501-DIC-360-Olympus-I370.webp",
+      "img/vi_nam/cryptococcus_neoformans/Screenshot 2026-11-21 151239.png",
+      "img/vi_nam/cryptococcus_neoformans/Screenshot 2026-11-21 151328.png"
+    ],
+    "epidermophyton_floccosum": [
+      "img/vi_nam/epidermophyton_floccosum/21485_lores.jpg",
+      "img/vi_nam/epidermophyton_floccosum/epidermophyton-floccosum-under-microscope-260nw-1013133409.webp",
+      "img/vi_nam/epidermophyton_floccosum/images.jpg",
+      "img/vi_nam/epidermophyton_floccosum/Screenshot 2026-11-21 152053.png"
+    ],
+    "histoplasma_capsulatum": [
+      "img/vi_nam/histoplasma_capsulatum/GettyImages-508778028.jpg",
+      "img/vi_nam/histoplasma_capsulatum/Histoplasma-capsulatum-microscopic-appearance-with-LPCB-test-magnification-400-photo.webp",
+      "img/vi_nam/histoplasma_capsulatum/images.jpg",
+      "img/vi_nam/histoplasma_capsulatum/Screenshot 2026-11-21 154135.png"
+    ],
+    "malassezia_furfur": [
+      "img/vi_nam/malassezia_furfur/3-s2.0-B9780444521491001488-f148-21-9780444521491.jpg",
+      "img/vi_nam/malassezia_furfur/303MIKE-300x199.jpg",
+      "img/vi_nam/malassezia_furfur/img1.jpg",
+      "img/vi_nam/malassezia_furfur/img2.jpg",
+      "img/vi_nam/malassezia_furfur/Screenshot 2026-11-21 153303.png"
+    ],
+    "microsporum_canis": [
+      "img/vi_nam/microsporum_canis/canismivro.jpg",
+      "img/vi_nam/microsporum_canis/images (1).jpg",
+      "img/vi_nam/microsporum_canis/images.jpg",
+      "img/vi_nam/microsporum_canis/miccan-300x197.jpg",
+      "img/vi_nam/microsporum_canis/Screenshot 2026-11-21 153708.png"
+    ],
+    "microsporum_gypseum": [
+      "img/vi_nam/microsporum_gypseum/images (1).jpg",
+      "img/vi_nam/microsporum_gypseum/images.jpg",
+      "img/vi_nam/microsporum_gypseum/Microsporum_gypseum_(257_17)_Microculture.jpg",
+      "img/vi_nam/microsporum_gypseum/Screenshot 2026-11-21 153958.png"
+    ],
+    "nam_toc_phat_ngoai": [
+      "img/vi_nam/nam_toc_phat_ngoai/Direct-microscopical-examination-of-horse-hair-sample-under-light-microscopy-reveals.webp",
+      "img/vi_nam/nam_toc_phat_ngoai/images.jpg",
+      "img/vi_nam/nam_toc_phat_ngoai/Screenshot 2026-11-21 154453.png"
+    ],
+    "nam_toc_phat_noi": [
+      "img/vi_nam/nam_toc_phat_noi/3-s2.0-B9780128096338210157-f21015-11-9780128199909.jpg",
+      "img/vi_nam/nam_toc_phat_noi/Direct-microscopic-examination-showing-endothrix-hair-invasion-with-septate-hyaline.webp",
+      "img/vi_nam/nam_toc_phat_noi/images.jpg",
+      "img/vi_nam/nam_toc_phat_noi/Screenshot 2026-11-21 154700.png"
+    ],
+    "penicillium_sp": [
+      "img/vi_nam/penicillium_sp/images (1).jpg",
+      "img/vi_nam/penicillium_sp/images.jpg",
+      "img/vi_nam/penicillium_sp/pen-micro.jpg",
+      "img/vi_nam/penicillium_sp/Screenshot 2026-11-21 155131.png"
+    ],
+    "piedraia_hortae": [
+      "img/vi_nam/piedraia_hortae/22855_lores.jpg",
+      "img/vi_nam/piedraia_hortae/download.jpg",
+      "img/vi_nam/piedraia_hortae/images.jpg",
+      "img/vi_nam/piedraia_hortae/Screenshot 2026-11-21 155737.png"
+    ],
+    "sporothrix_schenckii": [
+      "img/vi_nam/sporothrix_schenckii/images (1).jpg",
+      "img/vi_nam/sporothrix_schenckii/images.jpg",
+      "img/vi_nam/sporothrix_schenckii/Screenshot 2026-11-21 160419.png",
+      "img/vi_nam/sporothrix_schenckii/Sporothrix-schenckii.webp"
+    ],
+    "talaromyces_marneffei": [
+      "img/vi_nam/talaromyces_marneffei/11046_2021_576_Fig2_HTML.jpg",
+      "img/vi_nam/talaromyces_marneffei/12890_2023_2390_Fig1_HTML.png",
+      "img/vi_nam/talaromyces_marneffei/2-Figure1-1.png",
+      "img/vi_nam/talaromyces_marneffei/Screenshot 2026-11-21 161459.png"
+    ],
+    "trichophyton_mentagrophytes": [
+      "img/vi_nam/trichophyton_mentagrophytes/images (1).jpg",
+      "img/vi_nam/trichophyton_mentagrophytes/images.jpg",
+      "img/vi_nam/trichophyton_mentagrophytes/Screenshot 2026-11-21 161730.png"
+    ],
+    "trichophyton_rubrum": [
+      "img/vi_nam/trichophyton_rubrum/images (1).jpg",
+      "img/vi_nam/trichophyton_rubrum/images.jpg",
+      "img/vi_nam/trichophyton_rubrum/Screenshot 2026-11-21 162817.png",
+      "img/vi_nam/trichophyton_rubrum/trich-rub-micro1.jpg"
+    ],
+    "vi_nam_ngoai_da": [
+      "img/vi_nam/vi_nam_ngoai_da/images (1).jpg",
+      "img/vi_nam/vi_nam_ngoai_da/images.jpg",
+      "img/vi_nam/vi_nam_ngoai_da/Screenshot 2026-11-21 163145.png",
+      "img/vi_nam/vi_nam_ngoai_da/uc4c449cyvz31.jpg"
+    ]
+  }
+}

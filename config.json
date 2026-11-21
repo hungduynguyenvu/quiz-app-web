@@ -1,0 +1,260 @@
+
+{
+    "categories": {
+        "giun": {
+            "ancylostoma_duodenale_dau" : {
+                "name" : "Ancylostoma duodenale miệng"
+            },
+            "ascaris_lumbricoides_au_trung_phoi" : {
+                "name" : "Ascaris lumbricoides AT phổi"
+            },
+            "ascaris_lumbricoides_cai" : {
+                "name" : "Ascaris lumbricoides cái"
+            },
+            "ascaris_lumbricoides_duc" : {
+                "name" : "Ascaris lumbricoides đực"
+            },
+            "ascaris_lumbricoides_trung_chac" : {
+                "name" : "Ascaris lumbricoides T chắc"
+            },
+            "ascaris_lumbricoides_trung_lep" : {
+                "name" : "Ascaris lumbricoides T lép"
+            },
+            "enterobius_vermicularis_cai" : {
+                "name" : "Enterobius vermicularis cái"
+            },
+            "enterobius_vermicularis_cat_ngang" : {
+                "name" : "Enterobius vermicularis TT cắt ngang"
+            },
+            "enterobius_vermicularis_duc" : {
+                "name" : "Enterobius vermicularis đực"
+            },
+            "enterobius_vermicularis_trung" : {
+                "name" : "Enterobius vermicularis T"
+            },
+            "giun_moc_au_trung_1" : {
+                "name" : "AT 1 giun móc"
+            },
+            "giun_moc_au_trung_2" : {
+                "name" : "AT 2 giun móc"
+            },
+            "giun_moc_duoi_cai" : {
+                "name" : "đuôi giun móc cái"
+            },
+            "giun_moc_duoi_duc" : {
+                "name" : "đuôi giun móc đực"
+            },
+            "giun_moc_trung" : {
+                "name" : "giun móc T"
+            },
+            "gnathostoma_sp_au_trung_3" : {
+                "name" : "Gnathostoma sp AT 3"
+            },
+            "necator_americanus_dau" : {
+                "name" : "Necator americanus miệng"
+            },
+            "strongyloides_stercolaris_au_trung_1" : {
+                "name" : "Strongyloides stercoralis AT 1"
+            },
+            "strongyloides_stercolaris_au_trung_2" : {
+                "name" : "Strongyloides stercoralis AT 2"
+            },
+            "trichinella_spiralis_au_trung_co" : {
+                "name" : "Trichinella spiralis AT cơ"
+            },
+            "trichuris_trichiura_trung" : {
+                "name" : "Trichuris trichiura T"
+            },
+            "trichuris_truchiura_cai" : {
+                "name" : "Trichuris trichiura cái"
+            },
+            "trichuris_truchiura_cat_ngang" : {
+                "name" : "Trichuris trichiura cắt ngang"
+            },
+            "trichuris_truchiura_duc" : {
+                "name" : "Trichuris trichiura đực"
+            }
+        },
+
+        "san": {
+            "clonorchis_sinensis_trung" : {
+                "name" : "Clonorchis sinensis T"
+            },
+            "clonorchis_sinensis_truong_thanh" : {
+                "name" : "Clonorchis sinensis TT"
+            },
+            "cysticercus_cellulosae" : {
+                "name" : "Cysticercus cellulosae"
+            },
+            "diphyllobothrium_latum_dau" : {
+                "name" : "Diphyllobothrium latum đầu"
+            },
+            "diphyllobothrium_latum_dot" : {
+                "name" : "Diphyllobothrium latum đốt"
+            },
+            "diphyllobothrium_latum_trung" : {
+                "name" : "Diphyllobothrium latum T"
+            },
+            "fasciola_gigantica_truong_thanh" : {
+                "name" : "Fasciola gigantica TT"
+            },
+            "fasciola_hepatica_truong_thanh" : {
+                "name" : "Fasciola hepatica TT"
+            },
+            "fasciolopsis_buski_truong_thanh" : {
+                "name" : "Fasciolopsis buski TT"
+            },
+            "paragonimus_sp_trung" : {
+                "name" : "Paragonimus sp T"
+            },
+            "paragonimus_sp_truong_thanh" : {
+                "name" : "Paragonimus sp TT"
+            },
+            "schistosoma_haematobium_trung" : {
+                "name" : "Schistosoma haematobium T"
+            },
+            "schistosoma_mansoni_trung" : {
+                "name" : "Schistosoma mansoni T"
+            },
+            "schistosoma_sp_truong_thanh" : {
+                "name" : "Schistosoma sp TT"
+            },
+            "taenia_saginata_dau" : {
+                "name" : "Taenia saginata đầu"
+            },
+            "taenia_saginata_dot_gia" : {
+                "name" : "Taenia saginata đốt già"
+            },
+            "taenia_solium_dau" : {
+                "name" : "Taenia solium đầu"
+            },
+            "taenia_solium_dot_gia" : {
+                "name" : "Taenia solium đốt già"
+            },
+            "taenia_sp_trung" : {
+                "name" : "Taenia sp trứng"
+            },
+            "trung_san_la_lon" : {
+                "name" : "trứng sán lá lớn"
+            }
+        },
+
+        "don_bao": {
+            "balantidium_coli_bao_nang" : {
+                "name" : "Balantidium coli BN"
+            },
+            "balantidium_coli_hoat_dong" : {
+                "name" : "Balantidium coli HĐ"
+            },
+            "cryptosporidium_sp_trung_nang" : {
+                "name" : "Cryptosporidium sp TN"
+            },
+            "entamoeba_coli_bao_nang" : {
+                "name" : "Entamoeba coli BN"
+            },
+            "entamoeba_coli_hoat_dong" : {
+                "name" : "Entamoeba coli HĐ"
+            },
+            "entamoeba_histolytica_bao_nang" : {
+                "name" : "Entamoeba histolytica BN"
+            },
+            "entamoeba_histolytica_hoat_dong" : {
+                "name" : "Entamoeba histolytica HĐ"
+            },
+            "giardia_lamblia_bao_nang" : {
+                "name" : "Giardia lamblia BN"
+            },
+            "giardia_lamblia_hoat_dong" : {
+                "name" : "Giardia lamblia HĐ"
+            },
+            "plasmodium_falciparum_giao_bao" : {
+                "name" : "Plasmodium falciparum thể giao bào"
+            },
+            "plasmodium_falciparum_tu_duong" : {
+                "name" : "Plasmodium falciparum thể tư dưỡng"
+            },
+            "plasmodium_malariae_phan_liet" : {
+                "name" : "Plasmodium malariae thể phân liệt"
+            },
+            "plasmodium_malariae_tu_duong" : {
+                "name" : "Plasmodium malariae thể tư dưỡng"
+            },
+            "plasmodium_vivax_giao_bao" : {
+                "name" : "Plasmodium vivax thể giao bào"
+            },
+            "plasmodium_vivax_phan_liet" : {
+                "name" : "Plasmodium vivax thể phân liệt"
+            },
+            "plasmodium_vivax_tu_duong" : {
+                "name" : "Plasmodium vivax thể tư dưỡng"
+            },
+            "trichomonas_vaginalis_hoat_dong" : {
+                "name" : "Trichomonas vaginalis HĐ"
+            },
+            "toxoplasma_gondii_hoat_dong" : {
+                "name" : "Toxoplasma gondii HĐ"
+            }
+        },
+
+        "vi_nam": {
+            "aspergillus_sp" : {
+                "name" : "Aspergillus sp"
+            },
+            "candia_albicans_sinh_ong_mam" : {
+                "name" : "Candida albicans sinh ống mầm"
+            },
+            "candida_albicans_bao_tu_bao_day" : {
+                "name" : "Candida albicans bào tử bao dày"
+            },
+            "candida_sp_soi_to_nam_gia" : {
+                "name" : "Candida sp sợi tơ nấm giả"
+            },
+            "cryptococcus_neoformans" : {
+                "name" : "Cryptococcus neoformans"
+            },
+            "epidermophyton_floccosum" : {
+                "name" : "Epidermophyton floccosum"
+            },
+            "histoplasma_capsulatum" : {
+                "name" : "Histoplasma capsulatum"
+            },
+            "malassezia_furfur" : {
+                "name" : "Malassezia furfur"
+            },
+            "microsporum_canis" : {
+                "name" : "Microsporum canis"
+            },
+            "microsporum_gypseum" : {
+                "name" : "Microsporum gypseum"
+            },
+            "nam_toc_phat_ngoai" : {
+                "name" : "Nấm tóc phát ngoại"
+            },
+            "nam_toc_phat_noi" : {
+                "name" : "Nấm tóc phát nội"
+            },
+            "penicillium_sp" : {
+                "name" : "Penicillium sp"
+            },
+            "piedraia_hortae" : {
+                "name" : "Piedraia hortae"
+            },
+            "sporothrix_schenckii" : {
+                "name" : "Sporothrix schenckii"
+            },
+            "talaromyces_marneffei" : {
+                "name" : "Talaromyces marneffei"
+            },
+            "trichophyton_mentagrophytes" : {
+                "name" : "Trichophyton mentagrophytes"
+            },
+            "trichophyton_rubrum" : {
+                "name" : "Trichophyton rubrum"
+            },
+            "vi_nam_ngoai_da" : {
+                "name" : "Vi nấm ngoài da"
+            }
+            
+        }
+    }
+}
